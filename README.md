@@ -49,5 +49,6 @@
 
 ## 10) Application
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0e499b8a-7f1c-499e-82ca-e4d3ff3f49ee" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8173cbf2-25d3-4dfd-89a8-183055bfae50" />
+
 
