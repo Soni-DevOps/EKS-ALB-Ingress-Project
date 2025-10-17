@@ -3,7 +3,7 @@
 <img width="721" height="553" alt="image" src="https://github.com/user-attachments/assets/ad25d799-f0d3-429f-a786-36de80c91582" />
 
 
-1) create eks cluster
+## 1) create eks cluster
 
 <img width="975" height="278" alt="image" src="https://github.com/user-attachments/assets/58d597db-85ec-4f69-b53c-f1913fd81ad4" />
 
