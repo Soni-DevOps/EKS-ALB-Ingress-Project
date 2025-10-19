@@ -50,7 +50,7 @@
 ## 10) Application
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8173cbf2-25d3-4dfd-89a8-183055bfae50" />
-<img width="589" height="318" alt="image" src="https://github.com/user-attachments/assets/89ffb662-024d-4e87-830e-a70187baee25" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/89ffb662-024d-4e87-830e-a70187baee25" />
 
 
 
